@@ -39,7 +39,7 @@
             <li>php artisan migrate</li>
         </ul>
 
-        <ul> Deploy Laravel
+        <ul> Deploy Laravel to cpanel
             <li>public folder into cpanel public-html</li>
             <li>ENV changes to the cpanel database</li>
             <li>Import database tables into cpanel</li>
